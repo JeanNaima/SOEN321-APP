@@ -43,3 +43,13 @@ python plotter.py
 - Fetching comments consumes API quota; the script pauses briefly between videos to be polite
 - plotter.py pops up matplotlib windows, so run it where a display is available
 - If the API returns no comments or quota is exceeded, some videos may produce no rows in the CSV
+
+## Developers
+-Karim El Assaad - 40127808
+-Saad Khan - 40177298
+-Mohamed-Rabah-Ishaq Loucif - 40282580
+-Jean Naima - 40210371
+-Maxence Roy - 40251806
+-Veronique Touma - 40249766
+-Jeremy Vieira - 40246737
+
