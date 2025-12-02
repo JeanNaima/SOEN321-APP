@@ -3,7 +3,7 @@ import time
 import pandas as pd
 from googleapiclient.discovery import build
 
-from anaylze_spam_model import analyze_video_for_links
+from anaylze_comments import analyze_video_for_links
 
 YOUTUBE_API_KEY = "api"
 RESULTS_CSV = "video_link_results.csv"
